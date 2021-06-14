@@ -2,4 +2,4 @@
 	text-align: center;
 	color: slateblue;
 }
-p.dotted {border-style: dotted;}
+p {border-style: dotted;}
