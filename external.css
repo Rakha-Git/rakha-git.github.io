@@ -2,7 +2,7 @@
 	text-align: center;
 	color: slateblue;
 }
-#paragraf1 {
+p.dotted {
 	border-style: dotted;
 	border: 5px mediumseagreen;
 }
