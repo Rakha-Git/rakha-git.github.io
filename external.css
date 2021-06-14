@@ -2,6 +2,9 @@
 	text-align: center;
 	color: slateblue;
 }
+.hijau {
+	color: green
+}
 p {border-style: ridge;}
 p {
   border: 5px mediumseagreen;
