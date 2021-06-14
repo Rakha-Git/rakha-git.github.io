@@ -3,3 +3,6 @@
 	color: slateblue;
 }
 p {border-style: dotted;}
+p {
+	border: 5px mediumseagreen;
+}
