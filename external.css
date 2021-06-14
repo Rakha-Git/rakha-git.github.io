@@ -2,7 +2,4 @@
 	text-align: center;
 	color: slateblue;
 }
-p.dotted {
-	border-style: dotted;
-	border: 5px mediumseagreen;
-}
+p.dotted {border-style: dotted;}
