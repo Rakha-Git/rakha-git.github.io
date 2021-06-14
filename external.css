@@ -2,7 +2,16 @@
 	text-align: center;
 	color: slateblue;
 }
-p {border-style: dotted;}
+p {border-style: ridge;}
 p {
-	border: 5px mediumseagreen;
+  border: 5px mediumseagreen;
+}
+p {
+  margin: 25px 50px 75px 100px;
+}
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
