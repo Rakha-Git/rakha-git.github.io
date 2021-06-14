@@ -2,7 +2,7 @@
 	text-align: center;
 	color: slateblue;
 }
-p {border-style: dotted;}
+p {border-style: dashed;}
 p {
 	border: 5px mediumseagreen;
 }
