@@ -60,10 +60,8 @@ html {
   .image {
     -webkit-transition: all .1s ease-in-out;
     transition: all .1s ease-in-out;
-    background-size: cover;
-    background-repeat: no-repeat;
     border-radius: 5px;
-    min-height: 500px;
+    height: 500px;
     witdh: 1000px;
   }
 
