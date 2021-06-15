@@ -61,8 +61,8 @@ html {
     -webkit-transition: all .1s ease-in-out;
     transition: all .1s ease-in-out;
     border-radius: 5px;
-    height: 500px;
-    witdh: 1000px;
+    height: 360px;
+    witdh: 720px;
   }
 
   .image:hover{
