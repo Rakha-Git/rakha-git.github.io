@@ -64,6 +64,7 @@ html {
     background-repeat: no-repeat;
     border-radius: 5px;
     min-height: 500px;
+    witdh: 1000px;
   }
 
   .image:hover{
