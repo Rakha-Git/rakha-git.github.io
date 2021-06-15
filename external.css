@@ -62,7 +62,7 @@ html {
     transition: all .1s ease-in-out;
     border-radius: 5px;
     height: 500px;
-    witdh:1000px;
+    witdh: 1000px;
   }
 
   .image:hover{
